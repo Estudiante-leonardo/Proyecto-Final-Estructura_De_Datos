@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Proyecto-Final-Estructura_De_Datos.iml" filepath="$PROJECT_DIR$/.idea/Proyecto-Final-Estructura_De_Datos.iml" />
-      <module fileurl="file://$PROJECT_DIR$/vista/vista.iml" filepath="$PROJECT_DIR$/vista/vista.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inicio/vista.iml" filepath="$PROJECT_DIR$/Inicio/vista.iml" />
     </modules>
   </component>
 </project>
